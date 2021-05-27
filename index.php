@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <title>Stimulus HTML CSS Template</title>
+    <title>Raksit Kongwong Resume/title>
     <!--
 Stimulus Template
 http://www.templatemo.com/tm-498-stimulus
